@@ -86,3 +86,7 @@ El sistema permite la generación de informes mensuales en PDF, con análisis co
 - Modo accesible para personas con dificultades visuales (letra grande, modo daltónico)
 
 ---
+
+## 🔑 Licencia
+
+Este proyecto no tiene una licencia de código abierto. Todos los derechos están reservados y no se permite la copia, modificación o distribución del código sin mi permiso explícito.
