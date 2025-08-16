@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493740019940",
+    "project_id": "acudakeys",
+    "storage_bucket": "acudakeys.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493740019940:android:42cb8ac8545dd31a341cf1",
+        "android_client_info": {
+          "package_name": "com.example.acuda_keys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDns5CWKQTcLRHX8H6E3Abe1hDf1jcGW-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
